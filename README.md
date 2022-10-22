@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DjordjeVitkovic
-- 👀 I’m interested in Java development
-- 🌱 I’m currently learning a lot new things related to microserivce architecutre
-- 💞️ I’m looking to collaborate on Java projects
-- 📫 djordjev9@gmail.com
+- 👀 I’m interested in Java development, Spring Boot, cloud technologies ... 
+- 🌱 Currently I am working on very big and complex Java projects microservice architecture oriented 
+- 💞️ I’m looking to collaborate on new mainly Java projects where I can provide my knowledge and learn something new 🙂
+- 📫 djordjev9@gmail.com || https://www.linkedin.com/in/djordje-vitkovic/
 
 <!---
 DjordjeVitkovic/DjordjeVitkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
